@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # 💫 About Me:
 Machine Learning & AI enthusiast with a strong focus on real-world problem solving<br>Hands-on experience in data analysis, feature engineering, and model optimization<br>Skilled in Machine Learning, Deep Learning, NLP, and Computer Vision<br>Proficient in Python, data preprocessing, visualization, and model evaluation<br>Built projects like Forest Fire Prediction, Real-Time Object Detection & Face Recognition, and Recommendation Systems<br>Experienced with regularization techniques, CNN-based models, and exploratory data analysis<br>Passionate about learning by building, writing clean code, and continuous improvement
 
@@ -16,5 +15,7 @@ Machine Learning & AI enthusiast with a strong focus on real-world problem solvi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karamjodh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
