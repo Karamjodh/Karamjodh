@@ -1,4 +1,3 @@
-<!-- ====================== HEADER ====================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=240&section=header&text=KARAMJODH&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Explainable%20AI&descSize=20&descAlignY=62&descColor=39FF14" alt="header" />
@@ -10,11 +9,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO-AI%2FML%20INTERNSHIPS%20%26%20ROLES-39FF14?style=for-the-badge&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=Karamjodh&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS&labelColor=0D1117" />
 
 </div>
-
-<!-- ====================== ABOUT ====================== -->
 
 <br/>
 
@@ -29,35 +25,32 @@ now:       "Extending XAI to 3D MRI Alzheimer's classification"
 mindset:   "Learn by building. Ship clean code. Iterate."
 ```
 
-<!-- ====================== FEATURED ====================== -->
-
 ## 🚀 Featured Builds
 
-<div align="center">
-
-<a href="https://github.com/Karamjodh/FER_XAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=FER_XAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" />
-</a>
-<a href="https://github.com/Karamjodh/CarterX">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=CarterX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" />
-</a>
-<a href="https://github.com/Karamjodh/Phishing-Detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=Phishing-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" />
-</a>
-
-</div>
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 **[FER_XAI](https://github.com/Karamjodh/FER_XAI)** | 7-class facial expression recognition with LIME + SHAP explanations on every prediction. **84.36%** accuracy (ResNet-50 on RAF-DB). | `PyTorch` `ResNet-50` `EfficientNet-B0` `LIME` `SHAP` |
-| 📈 **[CarterX](https://github.com/Karamjodh/CarterX)** | AI-powered customer analytics platform: auto-selected forecasting (Prophet / SARIMA / LSTM), GMM & K-means segmentation, multi-LLM insights, JWT auth. | `FastAPI` `React` `Prophet` `scikit-learn` |
-| 🎣 **[Phishing-Detection](https://github.com/Karamjodh/Phishing-Detection)** | Real-time URL threat classifier using 30+ security features. Dockerized, deployed on AWS EC2 via CI/CD. | `Flask` `scikit-learn` `Docker` `AWS` `MLflow` |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 <a href="https://github.com/Karamjodh/FER_XAI">FER_XAI</a></h3>
+      <p>7-class facial expression recognition where every prediction comes with a LIME + SHAP explanation.</p>
+      <p>🏆 <b>84.36%</b> accuracy (ResNet-50, RAF-DB)</p>
+      <sub><code>PyTorch</code> <code>ResNet-50</code> <code>EfficientNet-B0</code> <code>LIME</code> <code>SHAP</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📈 <a href="https://github.com/Karamjodh/CarterX">CarterX</a></h3>
+      <p>AI-powered customer analytics platform: auto-selected forecasting (Prophet / SARIMA / LSTM), GMM and K-means segmentation, multi-LLM insights, JWT auth.</p>
+      <sub><code>FastAPI</code> <code>React</code> <code>Prophet</code> <code>scikit-learn</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎣 <a href="https://github.com/Karamjodh/ThreatReaper">ThreatReaper</a></h3>
+      <p>Real-time phishing detection: extracts 30+ URL features and classifies links as legitimate or malicious. Deployed on AWS with CI/CD.</p>
+      <sub><code>Python</code> <code>scikit-learn</code> <code>Docker</code> <code>AWS</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🔬 Currently Building
 
 > **XAI-ALZ**: explainable AI for 3D MRI Alzheimer's classification (ResNet3D, LRP3D, Grad-CAM3D, faithfulness metrics, sanity checks). A sequel to the FER-XAI paper.
-
-<!-- ====================== STACK ====================== -->
 
 ## 🛠️ Tech Arsenal
 
@@ -69,18 +62,17 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 
 </div>
 
-<!-- ====================== STATS ====================== -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Karamjodh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karamjodh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14" />
-
 <img width="98%" src="https://streak-stats.demolab.com?user=Karamjodh&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
-<img width="98%" src="https://ghchart.rshah.org/39FF14/Karamjodh" alt="contributions" />
+<!-- Self-generated by the workflow (profile.yml): these live in your own repo, so they can't go down -->
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
 
@@ -92,8 +84,6 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 
 </div>
 
-<!-- ====================== CONNECT ====================== -->
-
 ## 📡 Let's Connect
 
 <div align="center">
@@ -101,8 +91,6 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 <a href="https://www.linkedin.com/in/karamjodh-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rattan5650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/the_kxrxm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<!-- Add your portfolio when it's live:
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=githubpages&logoColor=black" /></a> -->
 
 <br/><br/>
 
