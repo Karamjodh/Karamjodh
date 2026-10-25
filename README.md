@@ -32,32 +32,14 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 <a href="https://github.com/Karamjodh/FER_XAI">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=FER_XAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="FER_XAI" />
 </a>
+<a href="https://github.com/Karamjodh/CarterX">
+  <img width="49%" src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/carterx-pin.svg" alt="CarterX" />
+</a>
 <a href="https://github.com/Karamjodh/ThreatReaper">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=ThreatReaper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="ThreatReaper" />
 </a>
 
 </div>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧠 <a href="https://github.com/Karamjodh/FER_XAI">FER_XAI</a></h3>
-      <p>7-class facial expression recognition. Every prediction ships with a LIME + SHAP explanation.</p>
-      <p>🏆 <b>84.36%</b> accuracy (ResNet-50, RAF-DB)</p>
-      <sub><code>PyTorch</code> <code>ResNet-50</code> <code>EfficientNet-B0</code> <code>LIME</code> <code>SHAP</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📈 <a href="https://github.com/Karamjodh/CarterX">CarterX</a></h3>
-      <p>AI customer analytics platform: auto-selected forecasting (Prophet / SARIMA / LSTM), GMM and K-means segmentation, multi-LLM insights, JWT auth.</p>
-      <sub><code>FastAPI</code> <code>React</code> <code>Prophet</code> <code>scikit-learn</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎣 <a href="https://github.com/Karamjodh/ThreatReaper">ThreatReaper</a></h3>
-      <p>Real-time phishing detection from 30+ URL features. Dockerized and deployed on AWS with CI/CD.</p>
-      <sub><code>Python</code> <code>scikit-learn</code> <code>Docker</code> <code>AWS</code></sub>
-    </td>
-  </tr>
-</table>
 
 ### 🔬 Currently Building
 
