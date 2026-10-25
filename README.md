@@ -32,35 +32,22 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 <a href="https://github.com/Karamjodh/FER_XAI">
   <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=FER_XAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="FER_XAI" />
 </a>
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/ResNet--50-0A66C2?style=flat-square" alt="ResNet-50" />
-<img src="https://img.shields.io/badge/LIME-2EA043?style=flat-square" alt="LIME" />
-<img src="https://img.shields.io/badge/SHAP-8957E5?style=flat-square" alt="SHAP" />
-<br/><br/>
-
 <a href="https://github.com/Karamjodh/CarterX">
   <img width="320" src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/carterx-pin.svg" alt="CarterX" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Prophet-0A66C2?style=flat-square" alt="Prophet" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/LLM_APIs-8957E5?style=flat-square" alt="LLM APIs" />
-<br/><br/>
-
 <a href="https://github.com/Karamjodh/ThreatReaper">
   <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=ThreatReaper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="ThreatReaper" />
 </a>
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" />
-<img src="https://img.shields.io/badge/CI%2FCD-2EA043?style=flat-square" alt="CI/CD" />
+
 <br/><br/>
+
+<b>FER_XAI</b> &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/ResNet--50-0A66C2?style=flat-square" alt="ResNet-50" /> <img src="https://img.shields.io/badge/LIME-2EA043?style=flat-square" alt="LIME" /> <img src="https://img.shields.io/badge/SHAP-8957E5?style=flat-square" alt="SHAP" />
+<br/>
+<b>CarterX</b> &nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Prophet-0A66C2?style=flat-square" alt="Prophet" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/LLM_APIs-8957E5?style=flat-square" alt="LLM APIs" />
+<br/>
+<b>ThreatReaper</b> &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/CI%2FCD-2EA043?style=flat-square" alt="CI/CD" />
+<br/>
 
 </div>
 
