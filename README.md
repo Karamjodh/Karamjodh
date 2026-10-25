@@ -30,7 +30,7 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 <div align="center">
 
 <a href="https://github.com/Karamjodh/FER_XAI">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=FER_XAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="FER_XAI" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=FER_XAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="FER_XAI" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -41,7 +41,7 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 <br/><br/>
 
 <a href="https://github.com/Karamjodh/CarterX">
-  <img width="400" src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/carterx-pin.svg" alt="CarterX" />
+  <img width="320" src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/carterx-pin.svg" alt="CarterX" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -52,7 +52,7 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 <br/><br/>
 
 <a href="https://github.com/Karamjodh/ThreatReaper">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=ThreatReaper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="ThreatReaper" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Karamjodh&repo=ThreatReaper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" alt="ThreatReaper" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
