@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Karamjodh" />
+<img src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/header.svg" width="100%" alt="Karamjodh" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3200&pause=900&color=39FF14&center=true&vCenter=true&width=760&height=50&lines=Building+models+that+explain+themselves;Computer+Vision+%7C+NLP+%7C+Deep+Learning;B.Tech+CSE+(AI%2FML)+%40+Chandigarh+University;Learn+by+building.+Ship+clean+code.+Iterate." alt="Typing SVG" />
@@ -29,9 +29,9 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 
 <div align="center">
 
-<a href="https://github.com/Karamjodh/FER_XAI"><img width="49%" src="./assets/card-fer-xai.svg" alt="FER_XAI" /></a>
-<a href="https://github.com/Karamjodh/CarterX"><img width="49%" src="./assets/card-carterx.svg" alt="CarterX" /></a>
-<a href="https://github.com/Karamjodh/ThreatReaper"><img width="49%" src="./assets/card-threatreaper.svg" alt="ThreatReaper" /></a>
+<a href="https://github.com/Karamjodh/FER_XAI"><img width="49%" src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/card-fer-xai.svg" alt="FER_XAI" /></a>
+<a href="https://github.com/Karamjodh/CarterX"><img width="49%" src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/card-carterx.svg" alt="CarterX" /></a>
+<a href="https://github.com/Karamjodh/ThreatReaper"><img width="49%" src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/card-threatreaper.svg" alt="ThreatReaper" /></a>
 
 </div>
 
@@ -42,19 +42,19 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 ## ⚙️ How I Build
 
 <div align="center">
-<img src="./assets/pipeline.svg" width="100%" alt="Data, Model, Explain, Ship" />
+<img src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/pipeline.svg" width="100%" alt="Data, Model, Explain, Ship" />
 </div>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-<img src="./assets/skills.svg" width="100%" alt="Skills" />
+<img src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/skills.svg" width="100%" alt="Skills" />
 </div>
 
 ## 🏆 Highlights
 
 <div align="center">
-<img src="./assets/highlights.svg" width="100%" alt="Highlights" />
+<img src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/highlights.svg" width="100%" alt="Highlights" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -68,7 +68,7 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 
 <br/>
 
-<img src="./assets/neural.svg" width="100%" alt="Neural network" />
+<img src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/neural.svg" width="100%" alt="Neural network" />
 
 </div>
 
@@ -82,6 +82,6 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="thanks for stopping by" />
+<img src="https://raw.githubusercontent.com/Karamjodh/Karamjodh/main/assets/footer.svg" width="100%" alt="thanks for stopping by" />
 
 </div>
