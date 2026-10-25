@@ -31,8 +31,12 @@ jobs:
   cards:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
+          # If this job fails with "Resource not accessible by integration",
+          # create a personal access token, save it as a repo secret named
+          # METRICS_TOKEN, and use ${{ secrets.METRICS_TOKEN }} here instead.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
