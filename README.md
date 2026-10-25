@@ -51,7 +51,7 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 |---|---|---|
 | 🧠 **[FER_XAI](https://github.com/Karamjodh/FER_XAI)** | 7-class facial expression recognition with LIME + SHAP explanations on every prediction. **84.36%** accuracy (ResNet-50 on RAF-DB). | `PyTorch` `ResNet-50` `EfficientNet-B0` `LIME` `SHAP` |
 | 📈 **[CarterX](https://github.com/Karamjodh/CarterX)** | AI-powered customer analytics platform: auto-selected forecasting (Prophet / SARIMA / LSTM), GMM & K-means segmentation, multi-LLM insights, JWT auth. | `FastAPI` `React` `Prophet` `scikit-learn` |
-| 🎣 **[Threat-Reaper](https://github.com/Karamjodh/Phishing-Detection)** | Real-time URL threat classifier using 30+ security features. Dockerized, deployed on AWS EC2 via CI/CD. | `Flask` `scikit-learn` `Docker` `AWS` `MLflow` |
+| 🎣 **[Phishing-Detection](https://github.com/Karamjodh/Phishing-Detection)** | Real-time URL threat classifier using 30+ security features. Dockerized, deployed on AWS EC2 via CI/CD. | `Flask` `scikit-learn` `Docker` `AWS` `MLflow` |
 
 ### 🔬 Currently Building
 
@@ -80,15 +80,7 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 
 <img width="98%" src="https://streak-stats.demolab.com?user=Karamjodh&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karamjodh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=39FF14" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Karamjodh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" />
+<img width="98%" src="https://ghchart.rshah.org/39FF14/Karamjodh" alt="contributions" />
 
 </div>
 
