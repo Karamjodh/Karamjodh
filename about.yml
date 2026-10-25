@@ -1,8 +1,0 @@
-# ~/karamjodh/about.yml
-role:      "Aspiring AI & ML Engineer"
-studying:  "B.Tech CSE (AI/ML), Chandigarh University, 2023-2027"
-focus:     "Real-world problem solving over toy demos"
-strengths: [Deep Learning (CNNs), Computer Vision, NLP, Explainable AI]
-research:  "Published work on explainable facial emotion recognition"
-now:       "Extending XAI to 3D MRI Alzheimer's classification"
-mindset:   "Learn by building. Ship clean code. Iterate."
