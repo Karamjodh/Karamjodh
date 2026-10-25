@@ -51,7 +51,7 @@ mindset:   "Learn by building. Ship clean code. Iterate."
 |---|---|---|
 | 🧠 **[FER_XAI](https://github.com/Karamjodh/FER_XAI)** | 7-class facial expression recognition with LIME + SHAP explanations on every prediction. **84.36%** accuracy (ResNet-50 on RAF-DB). | `PyTorch` `ResNet-50` `EfficientNet-B0` `LIME` `SHAP` |
 | 📈 **[CarterX](https://github.com/Karamjodh/CarterX)** | AI-powered customer analytics platform: auto-selected forecasting (Prophet / SARIMA / LSTM), GMM & K-means segmentation, multi-LLM insights, JWT auth. | `FastAPI` `React` `Prophet` `scikit-learn` |
-| 🎣 **[Phishing-Detection](https://github.com/Karamjodh/Phishing-Detection)** | Real-time URL threat classifier using 30+ security features. Dockerized, deployed on AWS EC2 via CI/CD. | `Flask` `scikit-learn` `Docker` `AWS` `MLflow` |
+| 🎣 **[Threat-Reaper](https://github.com/Karamjodh/Phishing-Detection)** | Real-time URL threat classifier using 30+ security features. Dockerized, deployed on AWS EC2 via CI/CD. | `Flask` `scikit-learn` `Docker` `AWS` `MLflow` |
 
 ### 🔬 Currently Building
 
